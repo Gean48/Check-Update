@@ -1,7 +1,7 @@
 {
- "version":"1.25.1",   
+ "version":"1.25.5",   
   "force_update":"false",    
-  "title":"🚨 Base Atualizada para 2.24.1.76 🚨",
-  "description":" 🔹 Novo: Opção para ativar aba de atualizações\n 🔹 Novo: Adicionado novo backup e restauração\n 🔹 Novo: Adicionado modo fantasma\n 🔹 Novo: menu pop-up do IOS\n 🔹 Novo: anexar estilo\n 🔹 Novo: a opção Anti-View Once funciona para áudios\n 🔹 Novo: download automático de mídia",
-  "download":"https://alfa-mods.blogspot.com/2024/02/whatsapp-mini.html"
+  "title":"🚨 Atualização não obrigatoria 🚨",
+  "description":" Usar a nova base DELTA em base YM\n Evitar um possivel ban na conta\n Pop up desaparece em 24h",
+  "download":"https://miniencurtafly.blogspot.com/2021/02/gerando-download.html#?o=71eec7c2b5bbd4d253378034431d54d4c783dd2e6188438071266291fde055224a1b2231d249e3775c265eba27269a3483efc7a81a37c2b6dde3064cf47899869e1b6cdaf67d3fa1"
 }
