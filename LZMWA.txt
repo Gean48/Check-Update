@@ -1,7 +1,7 @@
 {
  "version":"1.25.5",   
   "force_update":"false",    
-  "title":"🚨 Atualização não obrigatoria 🚨",
-  "description":" Usar a nova base DELTA em base YM\n Evitar um possivel ban na conta\n Pop up desaparece em 24h",
+  "title":"🚨 Aviso de nova aualização 🚨",
+  "description":" Agora você pode baixar a atualização por aqui\n Sempre que houver uma nova atualização\n Iremos mandar esse aviso",
   "download":"https://encurtaflyencurtando.blogspot.com/2024/02/update-whatsapp-delta.html"
 }
