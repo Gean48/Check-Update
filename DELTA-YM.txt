@@ -1,7 +1,7 @@
 {
  "version":"1.1",   
   "force_update":"false",    
-  "title":"🚨 Base Atualizada para 2.24.1.76 🚨",
-  "description":" 🔹 Novo: Opção para ativar aba de atualizações\n 🔹 Novo: Adicionado novo backup e restauração\n 🔹 Novo: Adicionado modo fantasma\n 🔹 Novo: menu pop-up do IOS\n 🔹 Novo: anexar estilo\n 🔹 Novo: a opção Anti-View Once funciona para áudios\n 🔹 Novo: download automático de mídia",
+  "title":"🚨 Base Atualizada para 2.24.1.78 🚨",
+  "description":" 🔹 New: IOS Home UI\n🔹 New: Backup Restore Theme\n🔹 New: Backup Restore WA Data and Media\n🔹 New: Row color\n🔹 New: Home background color and image and more...",
   "download":"https://alfa-mods.blogspot.com/2024/02/delta-ym.html"
 }
