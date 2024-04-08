@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "force_update": false,
-  "title": "🚨 Base Atualizada para 2.24.1.78 🚨",
+  "title": "🚨 Base Atualizada para 2.24.1.77 🚨",
   "description": "🔹 Novidades:\n- Nova interface de usuário para iOS\n- Novo tema de backup e restauração\n- Novo recurso para fazer backup e restaurar dados e mídia do WhatsApp\n- Nova opção para alterar a cor das linhas\n- Nova opção para alterar a cor e imagem do plano de fundo da tela inicial e mais...",
   "changelog": [
     {
