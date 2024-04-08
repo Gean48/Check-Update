@@ -2,7 +2,7 @@
  "version":"1.2",   
   "force_update":"false",    
   "title":"🚨 Base Atualizada para 2.24.1.78 🚨",
-  "description":"🔹 **New:** IOS Home UI\n🔹 __New:__ Backup Restore Theme\n🔹 New: Backup Restore WA Data and Media\n🔹 New: Row color\n🔹 New: Home background color and image and more...",
+  "description":"🔹 New: IOS Home UI\n🔹 New: Backup Restore Theme\n🔹 New: Backup Restore WA Data and Media\n🔹 New: Row color\n🔹 New: Home background color and image and more...",
   "download":"https://alfa-mods.blogspot.com/2024/02/delta-ym.html"
 }
 
