@@ -1,7 +1,21 @@
 {
- "version":"1.2",   
-  "force_update":"false",    
-  "title":"🚨 Base Atualizada para 2.24.1.78 🚨",
-  "description":"🔹 New: IOS Home UI\n🔹 New: Backup Restore Theme\n🔹 New: Backup Restore WA Data and Media\n🔹 New: Row color\n🔹 New: Home background color and image and more...",
-  "download":"https://alfa-mods.blogspot.com/2024/02/delta-ym.html"
+  "version": "1.2",
+  "force_update": false,
+  "title": "🚨 Base Atualizada para 2.24.1.78 🚨",
+  "description": "🔹 Novidades:\n- Nova interface de usuário para iOS\n- Novo tema de backup e restauração\n- Novo recurso para fazer backup e restaurar dados e mídia do WhatsApp\n- Nova opção para alterar a cor das linhas\n- Nova opção para alterar a cor e imagem do plano de fundo da tela inicial e mais...",
+  "changelog": [
+    {
+      "version": "1.2",
+      "date": "08/04/2024",
+      "changes": [
+        "- Nova interface de usuário para iOS",
+        "- Novo tema de backup e restauração",
+        "- Novo recurso para fazer backup e restaurar dados e mídia do WhatsApp",
+        "- Nova opção para alterar a cor das linhas",
+        "- Nova opção para alterar a cor e imagem do plano de fundo da tela inicial",
+        "- Outras melhorias e correções de bugs"
+      ]
+    }
+  ],
+  "download": "https://alfa-mods.blogspot.com/2024/02/delta-ym.html"
 }
