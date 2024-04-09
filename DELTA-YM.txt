@@ -1,8 +1,7 @@
 {
- "version":"1.2",   
+ "version":"1.3",   
   "force_update":"false",    
-  "title":"🚨 Base Atualizada para 2.24.1.78 🚨",
-  "description":"🔹 New: IOS Home UI\n🔹 New: Backup Restore Theme\n🔹 New: Backup Restore WA Data and Media\n🔹 New: Row color\n🔹 New: Home background color and image and more...",
+  "title":"🚨 Atualização de Extensão 🚨",
+  "description":"🔹 Estender tempo de expiração\n🔹 Envio de mensagens em massa com anexo\n🔹 Adicionar animação de lista\n🔹 Adicionar animação de deslize\n🔹 Adicionada interface IOS HOME",
   "download":"https://alfa-mods.blogspot.com/2024/02/delta-ym.html"
 }
-
