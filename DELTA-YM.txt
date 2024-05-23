@@ -1,7 +1,7 @@
 {
  "version":"1.3",   
   "force_update":"false",    
-  "title":"🚨 Atualização de Extensão 🚨",
-  "description":"🔹 Estender tempo de expiração\n🔹 Envio de mensagens em massa com anexo\n🔹 Adicionar animação de lista\n🔹 Adicionar animação de deslize\n🔹 Adicionada interface IOS HOME",
+  "title":"🚨 Atualização de base 🚨",
+  "description":"🔹 (Experimental) Remover Switch para Cabeçalho WA Oficial\n🔹 Visualizar status estilo Facebook\n🔹 Salvando categoria em mensagem em massa\n🔹 Remetente de mensagem em massa com anexo",
   "download":"https://alfa-mods.blogspot.com/2024/02/delta-ym.html"
 }
