@@ -1,7 +1,0 @@
-{
- "version":"1.1",   
-  "force_update":"false",    
-  "title":"🚨 Aviso de nova aualização 🚨",
-  "description":" Agora você pode baixar a atualização por aqui\n Sempre que houver uma nova atualização\n Iremos mandar esse aviso",
-  "download":"https://encurtaflyencurtando.blogspot.com/2024/02/update-whatsapp-delta.html"
-}
