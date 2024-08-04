@@ -1,5 +1,5 @@
 {
- "version":"1.5",   
+ "version":"1.4",   
   "force_update":"false",    
   "title":"🚨 Atualização de base 🚨",
   "description":"🔹 (Experimental) Remover Switch para Cabeçalho WA Oficial\n🔹 Visualizar status estilo Facebook\n🔹 Salvando categoria em mensagem em massa\n🔹 Remetente de mensagem em massa com anexo",
