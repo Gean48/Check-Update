@@ -1,5 +1,5 @@
 {
- "version":"9.93",
+ "version":"9.9",
  "title":"Atualização disponível 🛠️",
  "description":"Uma nova atualização está disponível e incluí novos recursos e correções de bugs.",
  "download":"https://www.whatsmods.com.br/2023/12/yxwhatsapp-atualizado.html",
